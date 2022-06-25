@@ -7,7 +7,7 @@
     "ejs": "^2.7.2",
     "express": "^4.17.1",
     "mongoose": "^5.7.11",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "universal-analytics": "^0.4.20"
   },
   "devDependencies": {},
